@@ -1,0 +1,83 @@
+.comments-section {
+  background-color: #fff;
+  margin-bottom: 100px;
+}
+
+.comments-main-header {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 1.78125;
+  letter-spacing: 0.01em;
+  color: #22343d;
+  text-align: center;
+  display: block;
+  margin-bottom: 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.comments-main-text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.75;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: #22343d;
+  text-align: center;
+  display: block;
+  max-width: 537px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 40px;
+}
+
+.comments-list {
+  display: flex;
+  gap: 64px;
+}
+
+.comments-list-item {
+  border: 1px solid #dedede;
+  border-radius: 5px;
+  padding: 30px 35px;
+  width: 327px;
+  height: 240px;
+  flex-basis: calc((100% - 128px) / 3);
+}
+
+.comments-list-rating-img {
+  margin-bottom: 16px;
+}
+
+.comments-list-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.75;
+  letter-spacing: 0.01em;
+  color: #737373;
+  display: block;
+  margin-bottom: 16px;
+  max-width: 275px;
+}
+
+.comments-list-person-name {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.01em;
+  color: #02897a;
+}
+
+.comments-list-person-rank {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.71429;
+  letter-spacing: 0.01em;
+  color: #252b42;
+}
+
+.comments-list-main-wrap {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+}
