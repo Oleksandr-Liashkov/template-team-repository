@@ -11,11 +11,5 @@
 
 /* Sections style */
 @import url('./index/header.css');
-@import url('./index/intro.css');
-@import url('./index/features.css');
-@import url('./index/benefits.css');
-@import url('./index/experts.css');
-@import url('./index/strategies.css');
-@import url('./index/pricing.css');
-@import url('./index/comments.css');
+
 @import url('./index/footer.css');
